@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Storm: A Hands-on Deep Dive into MySQL"
 date: 2026-04-03 21:00:00 +0500
-categories: [University Life, DBMS]
+categories: [University, DBMS]
 tags: [MySQL, WampServer, SQL, LabReport, Engineering]
 image:
   path: /assets/images/thumbnail1.jpg
