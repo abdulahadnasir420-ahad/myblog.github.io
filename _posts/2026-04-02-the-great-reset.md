@@ -4,7 +4,9 @@ date: 2026-04-02 10:00:00 +0500
 categories: [University, Academic Journey]
 tags: [UET, DBMS, Learning, Reflection]
 alt: University Campus Reopening
-layout: single
+image:
+  path: /assets/image/project.jpg
+  alt: University Campus Reopening
 ---
 
 ## 📘 University Reopening & Midterm Preparation
