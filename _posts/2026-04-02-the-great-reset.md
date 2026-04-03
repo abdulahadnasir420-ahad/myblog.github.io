@@ -1,25 +1,37 @@
 ---
-title: "My First Day at University"
-date: 2026-04-02 09:00:00 +0500
+title: "The Great Reset: University Reopening & Digital Shifts"
+date: 2026-04-02 10:00:00 +0500
 categories: [University, Academic Journey]
-tags: [UET, First Day, Experience, Student Life]
+tags: [UET, DBMS, Learning, Reflection]
+alt: University Campus Reopening
+layout: single
 ---
 
-## 🎓 My First Day at University
+## 📘 University Reopening & Midterm Preparation
+Finally, after a long period of waiting, our university reopened on **1st April 2026**. This day marked a fresh restart for all of us, bringing both excitement and pressure at the same time. What made it more challenging was that our midterm exams were scheduled to begin from the following week. This created a serious academic environment right from day one, as everyone was mentally preparing for exams while adjusting back to university life.
 
-### 📌 Key Highlights
-- Entering university with hope and excitement  
-- Realizing the challenges and importance of the journey  
-- Facing the upcoming results of intermediate exams  
+## 🎯 Changing Study Patterns
+It also felt quite different compared to earlier times. Traditionally, holidays used to be a complete break from studies, but now the situation seems to have changed. Sometimes, academic activities continue even during holidays. A similar situation occurred when the government announced a holiday on Friday. Although it was meant to provide rest, it indirectly affected our academic schedule and routine.
 
-On **15th September**, I entered **UET Faisalabad campus** for the first time with a mix of excitement and hope. That day marked the beginning of a new chapter in my life — one that I knew would be important, challenging, and rewarding.
+## 💻 DBMS Lab Goes Online
+Another interesting situation happened with our **DBMS course**. Our teacher had not yet arrived from his hometown. When he received the news about the holiday, he decided not to travel, which turned out to be a practical and beneficial decision for him. As a result, our scheduled Thursday lab session was shifted to an **online format**. This decision proved to be efficient, as it helped us continue our learning without interruption.
 
-I had just completed my **12th class**, and my intermediate results were still pending. According to university policy, continuing my degree required at least **60% marks**, and with only three days left for the result announcement, the pressure was intense.
+## 📝 Task-Based Evaluation
+For the lab evaluation, instead of a traditional test, we were assigned a practical task. The assignment required us to:
 
-Although academic activities had started, the focus on studies was still not very strong. Everyone around me was more concerned about their results than their classes. There was a sense of uncertainty in the air, as each student silently waited for their fate to be decided.
+1. **Create a database** 🗄️
+2. **Write a blog post explaining it** ✍️
+3. **Share the blog link with our instructor** 🔗
 
-During the introduction session, I learned that our core subject for the first semester would be **Programming Fundamentals (PF)**. It sounded both interesting and challenging. At that moment, I felt a mix of curiosity and nervousness, realizing that this subject would play a crucial role in shaping my academic journey.
+This method of evaluation was quite engaging because it not only tested our technical knowledge but also improved our ability to present and explain our work effectively.
 
-This first day made me understand that university life is not just about attending classes. It is about **managing time, adapting to new environments, building discipline, and staying consistent**.
+---
 
-The combination of excitement for a new beginning and anxiety about my results made this day truly unforgettable. It marked the start of a journey that would test my **determination, patience, and focus**.
+![University Reopening](/assets/img/project.jpg)
+
+---
+
+## 🌟 Conclusion
+Overall, this experience highlighted how flexible and adaptive the education system has become. Despite unexpected changes and holidays, learning continues in different forms. It was a unique and productive start that prepared us well for the upcoming academic challenges.
+
+
