@@ -1,0 +1,26 @@
+---
+layout: page
+---
+
+<div id="post-list" class="flex-grow-1 px-xl-1">
+  {% for post in site.categories[page.title] %}
+    <article class="card-wrapper card mb-4">
+      <a href="{{ post.url | relative_url }}" class="post-preview row g-0">
+        <div class="col-md-12">
+          <div class="card-body">
+            
+            {% if post.image %}
+              {% assign img_path = post.image.path | default: post.image %}
+              <img src="{{ img_path | relative_url }}" alt="{{ post.title }}" class="mb-3 rounded w-100">
+            {% endif %}
+
+            <h2 class="card-title mt-0">{{ post.title }}</h2>
+            <div class="card-text text-muted">
+              <p>{{ post.description }}</p>
+            </div>
+          </div>
+        </div>
+      </a>
+    </article>
+  {% endfor %}
+</div>
