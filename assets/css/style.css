@@ -1,0 +1,52 @@
+/* Contact Card Styles */
+.contact-card {
+  background: var(--main-wrapper-bg);
+  border: 1px solid var(--main-border-color);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-top: 1.5rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease-in-out;
+}
+
+.contact-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--link-color);
+}
+
+.contact-link-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.2rem;
+  text-decoration: none !important;
+  color: var(--text-color) !important;
+}
+
+.contact-link-wrapper i {
+  font-size: 1.4rem;
+  margin-right: 15px;
+  width: 30px;
+  text-align: center;
+}
+
+.contact-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.6;
+}
+
+.contact-value {
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+/* Brand Colors */
+.icon-email { color: #ea4335; }
+.icon-instagram { color: #E1306C; }
+.icon-github { color: var(--link-color); }
