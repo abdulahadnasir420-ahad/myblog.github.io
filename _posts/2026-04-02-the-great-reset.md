@@ -1,7 +1,7 @@
 ---
 title: "The Great Reset: University Reopening & Digital Shifts"
 date: 2026-04-02 10:00:00 +0500
-categories: [University, Academic Journey]
+categories: [University, Academic Journey,projects]
 tags: [UET, DBMS, Learning, Reflection]
 alt: University Campus Reopening
 image:
